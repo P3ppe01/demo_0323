@@ -1,6 +1,8 @@
+#TA 2018 winner: Bengo Yoshua
+
 Bio di un Turing award
 
-Yoshua Bengio OC FRS FRSC è uno scienziato informatico canadese, noto soprattutto per il suo lavoro sulle reti neurali artificiali e sul deep learning.
+**Yoshua Bengio** OC FRS FRSC è uno scienziato informatico canadese, noto soprattutto per il suo lavoro sulle reti neurali artificiali e sul deep learning.
 
 Yoshua Bengio is a Professor at the University of Montreal, and the Scientific Director of both Mila (Quebec’s Artificial Intelligence Institute) and IVADO (the Institute for Data Valorization). He is Co-director (with Yann LeCun) of CIFAR’s Learning in Machines and Brains program. Bengio received a Bachelor’s degree in electrical engineering, a Master’s degree in computer science and a Doctoral degree in computer science from McGill University.
 

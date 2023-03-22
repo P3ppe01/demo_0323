@@ -1,6 +1,8 @@
+#TA 2018 winner: Yann ANdré
+
 Bio di Yan LeCun
 
-Yann André LeCun is a French computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics and computational
+**Yann André** LeCun is a French computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics and computational
 
 Yann LeCun is Silver Professor of the Courant Institute of Mathematical Sciences at New York University, and VP and Chief AI Scientist at Facebook. He received a Diplôme d'Ingénieur from the Ecole Superieure d'Ingénieur en Electrotechnique et Electronique (ESIEE), and a PhD in computer science from Université Pierre et Marie Curie.
 

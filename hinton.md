@@ -1,6 +1,8 @@
+#TA 2018 winner: Hinton Geoffrey
+
 Bio di Hinton Geoffrey
 
-Geoffrey Everest Hinton (Wimbledon (Londra), 6 dicembre 1947) è un informatico britannico naturalizzato canadese. Geoffrey Hinton nel 2016.
+**Geoffrey Everest** Hinton (Wimbledon (Londra), 6 dicembre 1947) è un informatico britannico naturalizzato canadese. Geoffrey Hinton nel 2016.
 
 Geoffrey Hinton is VP and Engineering Fellow of Google, Chief Scientific Adviser of The Vector Institute and a University Professor Emeritus at the University of Toronto. Hinton received a Bachelor’s degree in experimental psychology from Cambridge University and a Doctoral degree in artificial intelligence from the University of Edinburgh. He was the founding Director of the Neural Computation and Adaptive Perception (later Learning in Machines and Brains) program at CIFAR.
 
