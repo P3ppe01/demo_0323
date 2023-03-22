@@ -1,4 +1,4 @@
-#TA 2018 winner: Yann ANdré
+# TA 2018 winner: Yann ANdré
 
 Bio di Yan LeCun
 

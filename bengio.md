@@ -1,4 +1,4 @@
-#TA 2018 winner: Bengo Yoshua
+# TA 2018 winner: Bengo Yoshua
 
 Bio di un Turing award
 
